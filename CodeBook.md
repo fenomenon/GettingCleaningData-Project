@@ -2,12 +2,12 @@
 
 ## activity
   Activity performed by subject.
-    WALKING
-    WALKING_UPSTAIRS
-    WALKING_DOWNSTAIRS
-    SITTING
-    STANDING
-    LAYING
+    * WALKING
+    * WALKING_UPSTAIRS
+    * WALKING_DOWNSTAIRS
+    * SITTING
+    * STANDING
+    * LAYING
 
 ## subject
   Subject code.
